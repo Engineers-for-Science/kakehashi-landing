@@ -3,7 +3,7 @@ import taro from "../assets/taro.jpg";
 import willLiu from "../assets/will_liu.jpg";
 import kaiyu from "../assets/kaiyu.jpg";
 import jack from "../assets/jack.jpg";
-import jac from "../assets/jac_yep.jpg"
+import jac from "../assets/jac_yep.jpg";
 import {
   AiOutlineGithub,
   AiFillLinkedin,
@@ -33,18 +33,22 @@ const AboutUs = () => {
             </div>
             <h2 className="text-3xl font-bold text-center py-6">Taro</h2>
             <p className="text-center text-lg mb-6">
-              Full-stack developer from Japan. Passionate about merging robust backends
-              and perpetually exploring innovative
-              digital solutions.
+              Full-stack developer from Japan. Passionate about merging robust
+              backends and perpetually exploring innovative digital solutions.
             </p>
             <div className="flex p-4 align-middle justify-center gap-10">
               <a
                 href="https://www.linkedin.com/in/taro-ishihara-3aa908234/"
-                target="_blank" rel="noreferrer"
+                target="_blank"
+                rel="noreferrer"
               >
                 <AiFillLinkedin className="text-3xl" />
               </a>
-              <a href="https://github.com/taro-ishihara" target="_blank" rel="noreferrer">
+              <a
+                href="https://github.com/taro-ishihara"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <AiOutlineGithub className="text-3xl" />
               </a>
             </div>
@@ -56,18 +60,23 @@ const AboutUs = () => {
             </div>
             <h2 className="text-3xl font-bold text-center py-6">Jack</h2>
             <p className="text-center text-lg mb-6">
-              Web developer from the SF Bay Area, love creative
-              development & web art, and have
-              built many projects that experiment with webGL & 3D web experiences.
+              Web developer from the SF Bay Area, love creative development &
+              web art, and have built many projects that experiment with webGL &
+              3D web experiences.
             </p>
             <div className="flex p-4 align-middle justify-center gap-10">
               <a
                 href="https://www.linkedin.com/in/jackyoukstetter/"
-                target="_blank" rel="noreferrer"
+                target="_blank"
+                rel="noreferrer"
               >
                 <AiFillLinkedin className="text-3xl" />
               </a>
-              <a href="https://github.com/JackYouk" target="_blank" rel="noreferrer">
+              <a
+                href="https://github.com/JackYouk"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <AiOutlineGithub className="text-3xl" />
               </a>
               <a href="https://jackjack.dev/" target="_blank" rel="noreferrer">
@@ -82,19 +91,26 @@ const AboutUs = () => {
             </div>
             <h2 className="text-3xl font-bold text-center py-6">Kaiyu</h2>
             <p className="text-center text-lg mb-6">
-              I am a driven and dedicated full-stack developer with knowledge in
-              React, MongoDB, Express, Node.js, Python,
-              Flask, SQL, Bootstrap and TailwindCSS. I enjoy working with others
-              to build web applications that capture my curiosity.
+              Experienced Front Engineer with Skill in JavaScript, HTML, CSS,
+              React.js, Redux, Node.js, express.js. Passionate about
+              innovations, combines an entrepreneurial attitude with technical
+              skills gained by working on the field. Curious and motivated by
+              new challenges, approaches every task with enthusiasm and
+              flexibility.
             </p>
             <div className="flex p-4 align-middle justify-center gap-10">
               <a
                 href="https://www.linkedin.com/in/aria-ma-2199a0271/"
-                target="_blank" rel="noreferrer"
+                target="_blank"
+                rel="noreferrer"
               >
                 <AiFillLinkedin className="text-3xl" />
               </a>
-              <a href="https://github.com/Kaiyu113" target="_blank" rel="noreferrer">
+              <a
+                href="https://github.com/Kaiyu113"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <AiOutlineGithub className="text-3xl" />
               </a>
             </div>
@@ -107,15 +123,23 @@ const AboutUs = () => {
             </div>
             <h2 className="text-3xl font-bold text-center py-6">William</h2>
             <p className="text-center text-lg mb-6">
-              Front-end Engineer from Hawaii, with
-              experience in react, redux, Typescript, node.js. Eager to learn
-              and develop any application that interests me.
+              Front-end Engineer from Hawaii, with experience in react, redux,
+              Typescript, node.js. Eager to learn and develop any application
+              that interests me.
             </p>
             <div className="flex p-4 align-middle justify-center gap-10">
-              <a href="https://www.linkedin.com/in/willliu06" target="_blank" rel="noreferrer">
+              <a
+                href="https://www.linkedin.com/in/willliu06"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <AiFillLinkedin className="text-3xl" />
               </a>
-              <a href="https://github.com/waileungl" target="_blank" rel="noreferrer">
+              <a
+                href="https://github.com/waileungl"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <AiOutlineGithub className="text-3xl" />
               </a>
               <a href="https://wlliu.com" target="_blank" rel="noreferrer">
@@ -132,12 +156,16 @@ const AboutUs = () => {
             <h2 className="text-3xl font-bold text-center py-6">Jacqueline</h2>
             <p className="text-center text-lg mb-6">
               I am a driven and dedicated full-stack developer with knowledge in
-              React, MongoDB, Express, Node.js, Python,
-              Flask, SQL, Bootstrap and TailwindCSS. I enjoy working with others
-              to build web applications that capture my curiosity.
+              React, MongoDB, Express, Node.js, Python, Flask, SQL, Bootstrap
+              and TailwindCSS. I enjoy working with others to build web
+              applications that capture my curiosity.
             </p>
             <div className="flex p-4 align-middle justify-center gap-10">
-              <a href="https://www.linkedin.com/in/jacqueline-yeh-33051b18b/" target="_blank" rel="noreferrer">
+              <a
+                href="https://www.linkedin.com/in/jacqueline-yeh-33051b18b/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <AiFillLinkedin className="text-3xl" />
               </a>
             </div>
