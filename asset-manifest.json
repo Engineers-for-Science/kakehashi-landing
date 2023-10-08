@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kakehashi-landing/static/css/main.639bb114.css",
-    "main.js": "/kakehashi-landing/static/js/main.f8989ab6.js",
+    "main.js": "/kakehashi-landing/static/js/main.8fa20952.js",
     "static/media/kakehashi.png": "/kakehashi-landing/static/media/kakehashi.54f24fabebb7d2a7d1a2.png",
     "static/media/will_liu.jpg": "/kakehashi-landing/static/media/will_liu.c2af3baa2b3617fa5820.jpg",
     "static/media/jac_yep.jpg": "/kakehashi-landing/static/media/jac_yep.56e213001a3dacd2c650.jpg",
@@ -25,10 +25,10 @@
     "static/media/github1.png": "/kakehashi-landing/static/media/github1.5b161304c2f1f68eadc8.png",
     "index.html": "/kakehashi-landing/index.html",
     "main.639bb114.css.map": "/kakehashi-landing/static/css/main.639bb114.css.map",
-    "main.f8989ab6.js.map": "/kakehashi-landing/static/js/main.f8989ab6.js.map"
+    "main.8fa20952.js.map": "/kakehashi-landing/static/js/main.8fa20952.js.map"
   },
   "entrypoints": [
     "static/css/main.639bb114.css",
-    "static/js/main.f8989ab6.js"
+    "static/js/main.8fa20952.js"
   ]
 }
