@@ -1,6 +1,5 @@
 import React from 'react';
 import { AiOutlineCheck } from 'react-icons/ai';
-import { Link } from 'react-router-dom';
 
 const Features = () => {
   return (

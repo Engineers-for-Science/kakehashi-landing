@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
-import collaborate from '../assets/collaborate.png';
-import code from '../assets/code.png';
-import networking from '../assets/networking.png';
+import researcher from '../assets/researcher.png';
+import guest from '../assets/guest.png';
+import projectOwner from '../assets/projectOwner.png';
+
 
 const Tabs = () => {
   const [openTab, setOpenTab] = useState(1);
@@ -75,7 +76,7 @@ const Tabs = () => {
               >
                 <img
                   className='w-[300px] mx-auto my-4'
-                  src={collaborate}
+                  src={researcher}
                   alt='/'
                 />
                 <div className='flex flex-col justify-center'>
@@ -100,7 +101,7 @@ const Tabs = () => {
               >
                 <img
                   className='w-[300px] mx-auto my-4'
-                  src={networking}
+                  src={projectOwner}
                   alt='/'
                 />
                 <div className='flex flex-col justify-center'>
@@ -124,7 +125,7 @@ const Tabs = () => {
                 className={openTab === 3 ? 'grid md:grid-cols-2' : 'hidden'}
                 id='#link3'
               >
-                <img className='w-[300px] mx-auto my-4' src={code} alt='/' />
+                <img className='w-[300px] mx-auto my-4' src={guest} alt='/' />
                 <div className='flex flex-col justify-center'>
                   <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2 text-sky-500'>
                     Engaging Exploration for Guests
