@@ -86,7 +86,7 @@ const Navbar2 = () => {
       >
         <LinkScroll to="home" smooth={true} offset={0} duration={500}>
           <h1 className="text-3xl font-bold mr-4 sm:text-4xl m-4 mb-2">
-            DEVBUD.
+            KAKEHASHI
           </h1>
         </LinkScroll>
         <ul>
