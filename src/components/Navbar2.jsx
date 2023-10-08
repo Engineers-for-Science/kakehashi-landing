@@ -30,7 +30,7 @@ const Navbar2 = () => {
           <LinkScroll
             to="steps"
             smooth={true}
-            offset={-100}
+            offset={-50}
             duration={500}
             className="p-4 hover:scale-105 nav-link"
           >
