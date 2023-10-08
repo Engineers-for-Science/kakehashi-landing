@@ -40,14 +40,14 @@ const AboutUs = () => {
             <div className="flex p-4 align-middle justify-center gap-10">
               <a
                 href="https://www.linkedin.com/in/william-zhan/"
-                target="_blank"
+                target="_blank" rel="noreferrer"
               >
                 <AiFillLinkedin className="text-3xl" />
               </a>
-              <a href="https://github.com/williamzhanshum" target="_blank">
+              <a href="https://github.com/williamzhanshum" target="_blank" rel="noreferrer">
                 <AiOutlineGithub className="text-3xl" />
               </a>
-              <a href="https://williamzhan.com" target="_blank">
+              <a href="https://williamzhan.com" target="_blank" rel="noreferrer">
                 <AiOutlineGlobal className="text-3xl" />
               </a>
             </div>
@@ -67,14 +67,14 @@ const AboutUs = () => {
             <div className="flex p-4 align-middle justify-center gap-10">
               <a
                 href="https://www.linkedin.com/in/william-zhan/"
-                target="_blank"
+                target="_blank" rel="noreferrer"
               >
                 <AiFillLinkedin className="text-3xl" />
               </a>
-              <a href="https://github.com/williamzhanshum" target="_blank">
+              <a href="https://github.com/williamzhanshum" target="_blank" rel="noreferrer">
                 <AiOutlineGithub className="text-3xl" />
               </a>
-              <a href="https://williamzhan.com" target="_blank">
+              <a href="https://williamzhan.com" target="_blank" rel="noreferrer">
                 <AiOutlineGlobal className="text-3xl" />
               </a>
             </div>
@@ -94,14 +94,14 @@ const AboutUs = () => {
             <div className="flex p-4 align-middle justify-center gap-10">
               <a
                 href="https://www.linkedin.com/in/william-zhan/"
-                target="_blank"
+                target="_blank" rel="noreferrer"
               >
                 <AiFillLinkedin className="text-3xl" />
               </a>
-              <a href="https://github.com/williamzhanshum" target="_blank">
+              <a href="https://github.com/williamzhanshum" target="_blank" rel="noreferrer">
                 <AiOutlineGithub className="text-3xl" />
               </a>
-              <a href="https://williamzhan.com" target="_blank">
+              <a href="https://williamzhan.com" target="_blank" rel="noreferrer">
                 <AiOutlineGlobal className="text-3xl" />
               </a>
             </div>
@@ -112,7 +112,7 @@ const AboutUs = () => {
             <div className="w-48 h-48 mx-auto mt-[-3rem] rounded-xl object-cover truncate">
               <img src={willLiu} alt="profile-pic" />
             </div>
-            <h2 className="text-3xl font-bold text-center py-6">William Liu</h2>
+            <h2 className="text-3xl font-bold text-center py-6">William</h2>
             <p className="text-center text-lg mb-6">
               I'm Will, a motivated and detail-oriented web developer with
               experience in building and maintaining websites and web
@@ -120,13 +120,13 @@ const AboutUs = () => {
               and develop any application that interests me.
             </p>
             <div className="flex p-4 align-middle justify-center gap-10">
-              <a href="https://www.linkedin.com/in/willliu06" target="_blank">
+              <a href="https://www.linkedin.com/in/willliu06" target="_blank" rel="noreferrer">
                 <AiFillLinkedin className="text-3xl" />
               </a>
-              <a href="https://github.com/waileungl" target="_blank">
+              <a href="https://github.com/waileungl" target="_blank" rel="noreferrer">
                 <AiOutlineGithub className="text-3xl" />
               </a>
-              <a href="https://wlliu.com" target="_blank">
+              <a href="https://wlliu.com" target="_blank" rel="noreferrer">
                 <AiOutlineGlobal className="text-3xl" />
               </a>
             </div>

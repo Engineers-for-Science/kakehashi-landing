@@ -31,7 +31,7 @@ const Tabs = () => {
                 href='#link1'
                 role='tablist'
               >
-                CODE SPACE
+                Researchers
               </a>
             </li>
             <li className='-mb-px mr-2 last:mr-0 flex-auto text-center'>
@@ -47,7 +47,7 @@ const Tabs = () => {
                 href='#link2'
                 role='tablist'
               >
-                NETWORK
+                Project Owners
               </a>
             </li>
             <li className='-mb-px mr-2 last:mr-0 flex-auto text-center'>
@@ -63,7 +63,7 @@ const Tabs = () => {
                 href='#link3'
                 role='tablist'
               >
-                LEARN
+                Guests
               </a>
             </li>
           </ul>
@@ -80,18 +80,17 @@ const Tabs = () => {
                 />
                 <div className='flex flex-col justify-center'>
                   <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2 text-sky-500'>
-                    Collaborate with others in our Code Space
+                    Tailored Experience for Researchers
                   </h1>
                   <p className=''>
-                    The Code Space allows you to work together on coding
-                    assignments and projects with your colleagues. The built-in
-                    compiler supports JavaScript, Java and Python.{' '}
+                    <b>Effortless Sign-Up and Skill Tagging:</b><br /> Researchers can sign up
+                    using their ORCID, and skill tags are automatically generated
+                    and refreshed from public records.{' '}
                   </p>
                   <br />
                   <p>
-                    Increase productivity and collaboration by using various
-                    communication features like group video calls, group chats,
-                    screen sharing and collaborative compiler.
+                    <b>Personalized Project Recommendations:</b><br /> KAKEHASHI recommends projects
+                    tailored to researchers' expertise based on their public records.
                   </p>
                 </div>
               </div>
@@ -106,18 +105,18 @@ const Tabs = () => {
                 />
                 <div className='flex flex-col justify-center'>
                   <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2 text-sky-500'>
-                    Network with other Developers
+                    Seamless Management for Project Owners
                   </h1>
                   <p className=''>
-                    New to coding? DEVBUD's social platform allows users to
-                    network with each other and find like-minded developers to
-                    collaborate with.
+                    <b>Automated Project Information Extraction:</b><br /> Project information is
+                    directly extracted from existing project webpages, minimizing manual
+                    input.
                   </p>
                   <br />
                   <p>
-                    Find more experienced developers that have the skills you
-                    desire and work with them on projects to improve your coding
-                    skills!{' '}
+                    <b>Easy Contributor Browsing and Contact:</b><br /> Owners can explore potential
+                    contributors who are apt for their project and contact them directly
+                    through the platform with a click.{' '}
                   </p>
                 </div>
               </div>
@@ -128,17 +127,17 @@ const Tabs = () => {
                 <img className='w-[300px] mx-auto my-4' src={code} alt='/' />
                 <div className='flex flex-col justify-center'>
                   <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2 text-sky-500'>
-                    Start Learning
+                    Engaging Exploration for Guests
                   </h1>
                   <p className=''>
-                    Found someone you want to work with? There is nothing left
-                    to do but jump into the Code Space.
+                    <b>Unrestricted Project Browsing:</b><br /> Guests can explore various
+                    projects without the necessity of an account.
                   </p>
                   <br />
                   <p>
-                    DEVBUD comes with a built-in IDE where you and your
-                    colleagues can work on projects or challenges together.
-                    Simply create your own room and invite others!
+                    <b>Direct Engagement Opportunities:</b><br />  Guests have the option
+                    to contact project owners directly or take a step further
+                    by becoming a contributor to a project of interest.
                   </p>
                 </div>
               </div>

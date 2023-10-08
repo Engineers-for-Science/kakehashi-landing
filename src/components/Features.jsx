@@ -7,12 +7,11 @@ const Features = () => {
     <div name='features' className='w-full py-24 mt-32'>
       <div className='max-w-[1240px] mx-auto px-2'>
         <h2 className='text-4xl md:text-5xl font-bold text-center'>
-          All-In-One Platform
+          Experiences you've never had before
         </h2>
         <p className='text-lg md:text-2xl py-8 text-gray-600 text-center'>
-          DEVBUD. is an All-In-One platform that allows instructors and students
-          to maximize their learning effort and use their time more efficiently.
-          Below is a list of all the features that users have access to.
+          KAKEHASHI: Bridging project creators and skilled collaborators through
+          AI-driven connections in the open science landscape.
         </p>
 
         {/* Cards container */}
@@ -23,10 +22,9 @@ const Features = () => {
               <AiOutlineCheck className='w-7 mr-4 text-green-600 font-bold text-2xl' />
             </div>
             <div>
-              <h3 className='font-bold text-lg'>Built-in IDE</h3>
+              <h3 className='font-bold text-lg'>AI Matching Algorithm</h3>
               <p className='text-lg pt-2 pb-4 pr-4'>
-                Practice your coding skills or work together with others on our
-                built-in IDE, which supports JavaScript, Python and Java.{' '}
+                Swiftly matches users based on skills, project requirements, and interests.{' '}
               </p>
             </div>
           </div>
@@ -37,10 +35,10 @@ const Features = () => {
               <AiOutlineCheck className='w-7 mr-4 text-green-600 font-bold text-2xl' />
             </div>
             <div>
-              <h3 className='font-bold text-lg'>Group Video</h3>
+              <h3 className='font-bold text-lg'>User Profiles</h3>
               <p className='text-lg pt-2 pb-4'>
-                Get to know your instructor or students through video calls that
-                support one-on-one or groups.
+                Allows project creators and collaborators to highlight
+                their skills, past projects, and interests.
               </p>
             </div>
           </div>
@@ -51,10 +49,9 @@ const Features = () => {
               <AiOutlineCheck className='w-7 mr-4 text-green-600 font-bold text-2xl' />
             </div>
             <div>
-              <h3 className='font-bold text-lg'>Group Chat App</h3>
+              <h3 className='font-bold text-lg'>Real-time Communicate</h3>
               <p className='text-lg pt-2 pb-4'>
-                Not a fan of video chat? No problem, communicate with your
-                instructor or students through the chat app in the code space.
+                Integrated chat and notification systems for immediate collaboration.
               </p>
             </div>
           </div>
@@ -65,23 +62,23 @@ const Features = () => {
               <AiOutlineCheck className='w-7 mr-4 text-green-600 font-bold text-2xl' />
             </div>
             <div>
-              <h3 className='font-bold text-lg'>Share Screen</h3>
+              <h3 className='font-bold text-lg'>Responsive Design</h3>
               <p className='text-lg pt-2 pb-4 mr-1'>
-                Share your screen with colleagues to enhance your communication
-                and collaboration.
+                Accessible on all devices, from desktops to mobiles.
               </p>
             </div>
           </div>
         </div>
 
-        <div className='flex justify-between items-center'>
-          <Link
-            to='/room'
-            className='mx-auto md:flex rounded-md  mt-10 px-8 py-2 text-white border border-black bg-black hover:bg-transparent hover:text-black hover:border-black'
-          >
-            Try it now
-          </Link>
-        </div>
+        <a href="https://kakehashi-platform.vercel.app/" target="_blank" rel="noreferrer">
+          <div className='flex justify-between items-center'>
+            <div
+              className='mx-auto md:flex rounded-md  mt-10 px-8 py-2 text-white border border-black bg-black hover:bg-transparent hover:text-black hover:border-black'
+            >
+              Try it now
+            </div>
+          </div>
+        </a>
       </div>
     </div>
   );

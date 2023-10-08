@@ -10,8 +10,7 @@ const Steps = () => {
             How It Works
           </p>
           <h1 className='md:text-2xl text-lg font-semibold text-gray-600'>
-            Explore the many different features and opportunities at your
-            disposal.
+            Explore the many different features and opportunities at <b>KAKEHASHI</b>
           </h1>
         </div>
         <Tabs />

@@ -55,10 +55,10 @@ const Navbar2 = () => {
             About Us
           </LinkScroll>
         </ul>
-        <a href="https://kakehashi-platform.vercel.app/" target="_blank">
+        <a href="https://kakehashi-platform.vercel.app/" target="_blank" rel="noreferrer">
           {/* <li className='p-4 hover:scale-105 nav-link'>Create Room</li> */}
           <button className="hidden md:flex rounded-md px-8 py-2 text-white border border-black bg-black hover:bg-transparent hover:text-black hover:border-black">
-            Try Demo
+            Explore Demo
           </button>
         </a>
       </div>
