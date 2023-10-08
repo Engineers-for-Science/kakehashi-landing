@@ -46,6 +46,15 @@ const Navbar2 = () => {
             Features
           </LinkScroll>
           <LinkScroll
+            to="skills"
+            smooth={true}
+            offset={-70}
+            duration={500}
+            className="p-4 hover:scale-105 nav-link"
+          >
+            Skills
+          </LinkScroll>
+          <LinkScroll
             to="about"
             smooth={true}
             offset={40}
@@ -89,6 +98,11 @@ const Navbar2 = () => {
           <LinkScroll to="features" smooth={true} offset={-30} duration={500}>
             <li onClick={handleNav} className="p-4 border-b nav-link">
               Features
+            </li>
+          </LinkScroll>
+          <LinkScroll to="skills" smooth={true} offset={-100} duration={500}>
+            <li onClick={handleNav} className="p-4 border-b nav-link">
+              Skills
             </li>
           </LinkScroll>
           <LinkScroll to="about" smooth={true} offset={40} duration={500}>

@@ -13,7 +13,7 @@ const Hero = () => {
         </h1>
         <div className="flex justify-center items-center w-full">
           <p className="md:text-3xl sm:text-2xl text-sm font-bold text-gray-400">
-            {"Bridging Project Owner With\u00A0 <-> skilled"}
+            {"Bridging Project Owner With\u00A0 <-> Skilled"}
           </p>
           <Typed
             className="md:text-3xl sm:text-2xl text-sm font-bold text-gray-400 md:pl-4 pl-2"

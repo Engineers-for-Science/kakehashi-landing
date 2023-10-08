@@ -1,31 +1,31 @@
-import React from "react";
-import html from "../assets/skills/html.png";
-import css from "../assets/skills/css.png";
-import ts from "../assets/skills/ts.png";
-import github1 from "../assets/skills/github1.png";
-import mongo from "../assets/skills/mongo.png";
-import node from "../assets/skills/node.png";
-import python from "../assets/skills/python.png";
-import reactImg from "../assets/skills/react.png";
-import sql from "../assets/skills/sql.png";
-import tailwind from "../assets/skills/tailwind.png";
-import radixUI from "../assets/skills/radixUI.png";
+import React from 'react';
+import postgre from '../assets/skills/postgre.png';
+import ts from '../assets/skills/ts.png';
+import github1 from '../assets/skills/github1.png';
+import node from '../assets/skills/node.png';
+import python from '../assets/skills/python.png';
+import fireBase from '../assets/skills/firebase.png';
+import pinecone from '../assets/skills/pinecone.png';
+import tailwind from '../assets/skills/tailwind.png';
+import radixUI from '../assets/skills/radixUI.png';
 import shadcn from "../assets/skills/shadcn-ui.png";
+import nextJS from "../assets/skills/nextjs.png";
+import gpt from "../assets/skills/gpt.png";
 
 const Skills = () => {
   const skillData = [
-    { src: html, alt: "html", name: "HTML" },
-    { src: css, alt: "css", name: "CSS" },
-    { src: reactImg, alt: "react", name: "React" },
-    { src: ts, alt: "ts", name: "TypeScript" },
-    { src: node, alt: "node", name: "Node.js" },
-    { src: mongo, alt: "mongo", name: "MongoDB" },
-    { src: python, alt: "python", name: "Python" },
-    { src: sql, alt: "SQL", name: "SQL" },
-    { src: tailwind, alt: "tailwind", name: "Tailwind CSS" },
-    { src: github1, alt: "github", name: "GitHub" },
-    { src: radixUI, alt: "radixUI", name: "radixUI" },
-    { src: shadcn, alt: "shadcn", name: "shadcnUI" },
+    { src: ts, alt: 'ts', name: 'TypeScript' },
+    { src: python, alt: 'python', name: 'Python' },
+    { src: nextJS, alt: 'nextJS', name: 'Next.js' },
+    { src: gpt, alt: 'gpt', name: 'GPT' },
+    { src: node, alt: 'node', name: 'Node.js' },
+    { src: postgre, alt: 'postgre', name: 'PostgreSQL' },
+    { src: tailwind, alt: 'tailwind', name: 'Tailwind CSS' },
+    { src: github1, alt: 'github', name: 'GitHub' },
+    { src: radixUI, alt: 'radixUI', name: 'radixUI' },
+    { src: fireBase, alt: 'fireBase', name: 'FireBase' },
+    { src: pinecone, alt: 'pinecone', name: 'PineconeDB' },
+    { src: shadcn, alt: 'shadcn', name: 'shadcnUI' },
   ];
 
   return (
@@ -35,8 +35,8 @@ const Skills = () => {
           Technologies Used
         </h2>
         <p className="text-lg md:text-2xl py-8 text-gray-600 text-center">
-          KAKEHASHI: Bridging project creators and skilled collaborators through
-          AI-driven connections in the open science landscape.
+          Vibrant platform that seamlessly unites project creators and collaborators
+          in the pulsating heart of the open science domain
         </p>
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
           {skillData.map((skill, index) => (
