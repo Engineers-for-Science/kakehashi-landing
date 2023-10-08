@@ -1,31 +1,31 @@
-import React from 'react';
-import html from '../assets/skills/html.png';
-import css from '../assets/skills/css.png';
-import ts from '../assets/skills/ts.png';
-import github1 from '../assets/skills/github1.png';
-import mongo from '../assets/skills/mongo.png';
-import node from '../assets/skills/node.png';
-import python from '../assets/skills/python.png';
-import reactImg from '../assets/skills/react.png';
-import sql from '../assets/skills/sql.png';
-import tailwind from '../assets/skills/tailwind.png';
-import radixUI from '../assets/skills/radixUI.png';
+import React from "react";
+import html from "../assets/skills/html.png";
+import css from "../assets/skills/css.png";
+import ts from "../assets/skills/ts.png";
+import github1 from "../assets/skills/github1.png";
+import mongo from "../assets/skills/mongo.png";
+import node from "../assets/skills/node.png";
+import python from "../assets/skills/python.png";
+import reactImg from "../assets/skills/react.png";
+import sql from "../assets/skills/sql.png";
+import tailwind from "../assets/skills/tailwind.png";
+import radixUI from "../assets/skills/radixUI.png";
 import shadcn from "../assets/skills/shadcn-ui.png";
 
 const Skills = () => {
   const skillData = [
-    { src: html, alt: 'html', name: 'HTML' },
-    { src: css, alt: 'css', name: 'CSS' },
-    { src: reactImg, alt: 'react', name: 'React' },
-    { src: ts, alt: 'ts', name: 'TypeScript' },
-    { src: node, alt: 'node', name: 'Node.js' },
-    { src: mongo, alt: 'mongo', name: 'MongoDB' },
-    { src: python, alt: 'python', name: 'Python' },
-    { src: sql, alt: 'SQL', name: 'SQL' },
-    { src: tailwind, alt: 'tailwind', name: 'Tailwind CSS' },
-    { src: github1, alt: 'github', name: 'GitHub' },
-    { src: radixUI, alt: 'radixUI', name: 'radixUI' },
-    { src: shadcn, alt: 'shadcn', name: 'shadcnUI' },
+    { src: html, alt: "html", name: "HTML" },
+    { src: css, alt: "css", name: "CSS" },
+    { src: reactImg, alt: "react", name: "React" },
+    { src: ts, alt: "ts", name: "TypeScript" },
+    { src: node, alt: "node", name: "Node.js" },
+    { src: mongo, alt: "mongo", name: "MongoDB" },
+    { src: python, alt: "python", name: "Python" },
+    { src: sql, alt: "SQL", name: "SQL" },
+    { src: tailwind, alt: "tailwind", name: "Tailwind CSS" },
+    { src: github1, alt: "github", name: "GitHub" },
+    { src: radixUI, alt: "radixUI", name: "radixUI" },
+    { src: shadcn, alt: "shadcn", name: "shadcnUI" },
   ];
 
   return (
@@ -43,6 +43,7 @@ const Skills = () => {
             <div
               key={index}
               className="p-6 shadow-lg shadow-grey-500 rounded-xl hover:scale-105 ease-in duration-300"
+            >
               <div className="grid grid-cols-2 gap-4 justify-center items-center">
                 <div className="m-auto">
                   <img src={skill.src} width="64" height="64" alt={skill.alt} />
