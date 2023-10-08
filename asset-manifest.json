@@ -1,37 +1,34 @@
 {
   "files": {
     "main.css": "/kakehashi-landing/static/css/main.639bb114.css",
-    "main.js": "/kakehashi-landing/static/js/main.00cc4897.js",
+    "main.js": "/kakehashi-landing/static/js/main.f8989ab6.js",
     "static/media/kakehashi.png": "/kakehashi-landing/static/media/kakehashi.54f24fabebb7d2a7d1a2.png",
     "static/media/will_liu.jpg": "/kakehashi-landing/static/media/will_liu.c2af3baa2b3617fa5820.jpg",
     "static/media/jac_yep.jpg": "/kakehashi-landing/static/media/jac_yep.56e213001a3dacd2c650.jpg",
     "static/media/kaiyu.jpg": "/kakehashi-landing/static/media/kaiyu.c3482a56bbb2b02e4920.jpg",
     "static/media/taro.jpg": "/kakehashi-landing/static/media/taro.b3de551efbeeaf7bc962.jpg",
+    "static/media/postgre.png": "/kakehashi-landing/static/media/postgre.1b904635aedb7c19150d.png",
     "static/media/image3.png": "/kakehashi-landing/static/media/image3.0e17394620b13e5b5c11.png",
     "static/media/jack.jpg": "/kakehashi-landing/static/media/jack.3a174ce1f38a4ec9154b.jpg",
     "static/media/researcher.png": "/kakehashi-landing/static/media/researcher.d6d18300b661cd87d067.png",
-    "static/media/sql.png": "/kakehashi-landing/static/media/sql.850c25846861f0d274a3.png",
     "static/media/projectOwner.png": "/kakehashi-landing/static/media/projectOwner.efc498934afe9dcf6db8.png",
     "static/media/guest.png": "/kakehashi-landing/static/media/guest.65aa78cd4b9be4663f79.png",
-    "static/media/react.png": "/kakehashi-landing/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/image1.png": "/kakehashi-landing/static/media/image1.5734348571595789f8f8.png",
     "static/media/node.png": "/kakehashi-landing/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/ts.png": "/kakehashi-landing/static/media/ts.4e3f27e6784d69f4f587.png",
-    "static/media/mongo.png": "/kakehashi-landing/static/media/mongo.2a1528ddc31d4ce8518d.png",
     "static/media/default-profile-icon.png": "/kakehashi-landing/static/media/default-profile-icon.a0e362d9fe21c3d24756.png",
     "static/media/python.png": "/kakehashi-landing/static/media/python.c8d32732b85c2e153b68.png",
-    "static/media/html.png": "/kakehashi-landing/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/image2.png": "/kakehashi-landing/static/media/image2.d7c0bafaaa2fe19cdced.png",
     "static/media/tailwind.png": "/kakehashi-landing/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "/kakehashi-landing/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/firebase.png": "/kakehashi-landing/static/media/firebase.209703cedf1b1a96bc52.png",
     "static/media/success-animation.gif": "/kakehashi-landing/static/media/success-animation.83c3cf7c148288fc6dc2.gif",
     "static/media/github1.png": "/kakehashi-landing/static/media/github1.5b161304c2f1f68eadc8.png",
     "index.html": "/kakehashi-landing/index.html",
     "main.639bb114.css.map": "/kakehashi-landing/static/css/main.639bb114.css.map",
-    "main.00cc4897.js.map": "/kakehashi-landing/static/js/main.00cc4897.js.map"
+    "main.f8989ab6.js.map": "/kakehashi-landing/static/js/main.f8989ab6.js.map"
   },
   "entrypoints": [
     "static/css/main.639bb114.css",
-    "static/js/main.00cc4897.js"
+    "static/js/main.f8989ab6.js"
   ]
 }
