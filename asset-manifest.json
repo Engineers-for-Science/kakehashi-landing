@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/kakehashi-landing/static/css/main.e2318e7b.css",
-    "main.js": "/kakehashi-landing/static/js/main.1edfe3ee.js",
-    "static/media/kakehashi.png": "/kakehashi-landing/static/media/kakehashi.54f24fabebb7d2a7d1a2.png",
-    "static/media/will_liu.jpg": "/kakehashi-landing/static/media/will_liu.c2af3baa2b3617fa5820.jpg",
-    "static/media/kaiyu.jpg": "/kakehashi-landing/static/media/kaiyu.c3482a56bbb2b02e4920.jpg",
-    "static/media/taro.jpg": "/kakehashi-landing/static/media/taro.b3de551efbeeaf7bc962.jpg",
-    "static/media/image3.png": "/kakehashi-landing/static/media/image3.0e17394620b13e5b5c11.png",
-    "static/media/jack.jpg": "/kakehashi-landing/static/media/jack.3a174ce1f38a4ec9154b.jpg",
-    "static/media/networking.png": "/kakehashi-landing/static/media/networking.5ad5cca8dcb78d9fc907.png",
-    "static/media/image1.png": "/kakehashi-landing/static/media/image1.5734348571595789f8f8.png",
-    "static/media/default-profile-icon.png": "/kakehashi-landing/static/media/default-profile-icon.a0e362d9fe21c3d24756.png",
-    "static/media/image2.png": "/kakehashi-landing/static/media/image2.d7c0bafaaa2fe19cdced.png",
-    "static/media/collaborate.png": "/kakehashi-landing/static/media/collaborate.b2bbd4e32949387aab8f.png",
-    "static/media/success-animation.gif": "/kakehashi-landing/static/media/success-animation.83c3cf7c148288fc6dc2.gif",
-    "static/media/code.png": "/kakehashi-landing/static/media/code.7da89742570fe79d2036.png",
-    "index.html": "/kakehashi-landing/index.html",
-    "main.e2318e7b.css.map": "/kakehashi-landing/static/css/main.e2318e7b.css.map",
-    "main.1edfe3ee.js.map": "/kakehashi-landing/static/js/main.1edfe3ee.js.map"
+    "main.css": "/static/css/main.e2318e7b.css",
+    "main.js": "/static/js/main.9843372d.js",
+    "static/media/kakehashi.png": "/static/media/kakehashi.54f24fabebb7d2a7d1a2.png",
+    "static/media/will_liu.jpg": "/static/media/will_liu.c2af3baa2b3617fa5820.jpg",
+    "static/media/kaiyu.jpg": "/static/media/kaiyu.c3482a56bbb2b02e4920.jpg",
+    "static/media/taro.jpg": "/static/media/taro.b3de551efbeeaf7bc962.jpg",
+    "static/media/image3.png": "/static/media/image3.0e17394620b13e5b5c11.png",
+    "static/media/jack.jpg": "/static/media/jack.3a174ce1f38a4ec9154b.jpg",
+    "static/media/networking.png": "/static/media/networking.5ad5cca8dcb78d9fc907.png",
+    "static/media/image1.png": "/static/media/image1.5734348571595789f8f8.png",
+    "static/media/default-profile-icon.png": "/static/media/default-profile-icon.a0e362d9fe21c3d24756.png",
+    "static/media/image2.png": "/static/media/image2.d7c0bafaaa2fe19cdced.png",
+    "static/media/collaborate.png": "/static/media/collaborate.b2bbd4e32949387aab8f.png",
+    "static/media/success-animation.gif": "/static/media/success-animation.83c3cf7c148288fc6dc2.gif",
+    "static/media/code.png": "/static/media/code.7da89742570fe79d2036.png",
+    "index.html": "/index.html",
+    "main.e2318e7b.css.map": "/static/css/main.e2318e7b.css.map",
+    "main.9843372d.js.map": "/static/js/main.9843372d.js.map"
   },
   "entrypoints": [
     "static/css/main.e2318e7b.css",
-    "static/js/main.1edfe3ee.js"
+    "static/js/main.9843372d.js"
   ]
 }
