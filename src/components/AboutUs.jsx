@@ -92,11 +92,8 @@ const AboutUs = () => {
             <h2 className="text-3xl font-bold text-center py-6">Kaiyu</h2>
             <p className="text-center text-lg mb-6">
               Experienced Front Engineer with Skill in JavaScript, HTML, CSS,
-              React.js, Redux, Node.js, express.js. Passionate about
-              innovations, combines an entrepreneurial attitude with technical
-              skills gained by working on the field. Curious and motivated by
-              new challenges, approaches every task with enthusiasm and
-              flexibility.
+              React.js, Redux, Node.js, express.js. Curious and motivated by new
+              challenges, approaches every task with enthusiasm and flexibility.
             </p>
             <div className="flex p-4 align-middle justify-center gap-10">
               <a
@@ -155,10 +152,9 @@ const AboutUs = () => {
             </div>
             <h2 className="text-3xl font-bold text-center py-6">Jacqueline</h2>
             <p className="text-center text-lg mb-6">
-              I am a driven and dedicated full-stack developer with knowledge in
-              React, MongoDB, Express, Node.js, Python, Flask, SQL, Bootstrap
-              and TailwindCSS. I enjoy working with others to build web
-              applications that capture my curiosity.
+              I am a creative and passionate UX/UI designer based in San
+              Francisco. I specialize in crafting intuitive and effective
+              designs, prioritizing simplicity over unnecessary complexity.
             </p>
             <div className="flex p-4 align-middle justify-center gap-10">
               <a
