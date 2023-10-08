@@ -4,6 +4,7 @@ import Features from '../components/Features';
 import Hero from '../components/Hero';
 import Navbar2 from '../components/Navbar2';
 import Steps from '../components/Steps';
+import Skills from '../components/Skills';
 
 const Main = () => {
   return (
@@ -12,6 +13,7 @@ const Main = () => {
       <Hero />
       <Steps />
       <Features />
+      <Skills />
       <AboutUs />
     </div>
   );
